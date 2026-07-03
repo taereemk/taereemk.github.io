@@ -8,4 +8,4 @@ My research focuses on hydroclimatology, climate extremes, hydrologic forecastin
 - Climate extremes
 - Hydrologic forecasting
 - Machine learning
-- Remote sensing
+- Decision-making
